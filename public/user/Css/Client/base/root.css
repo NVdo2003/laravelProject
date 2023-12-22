@@ -1,0 +1,18 @@
+:root {
+    /* text color */
+    --text-color: #333333;
+    --text-white-color: #ffffff;
+    --text-red: #cc041a;
+    --text-price: #e2293d;
+    --text-price-old: #696973;
+    --text-brand: #696973;
+    --text-name: #3a4754;
+    --text-countdown: #1e2e4e;
+
+    /* background color */
+    --header-bar: #0a437f;
+    --tag-sale: #e2293d;
+    --tag-new: #50ad55;
+    --tag-hot: #fed554;
+    --breadcumb-color: #f5f5f5;
+}
